@@ -33,6 +33,6 @@ app.listen (1000,function(erro){ // Cria uma porta (1000)
     if(erro) { //condição abaixo basicamente é se acontecer algum erro o sistema avisa, se não ele inicia normalmente
         console.log ('Ocorreu um Erro !!');
     } else {
-        console.log ('Servidor Iniciado !!');
+        console.log ('Servidor Iniciado !!!');
     }
 })
